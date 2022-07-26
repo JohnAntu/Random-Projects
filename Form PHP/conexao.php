@@ -9,6 +9,6 @@ $password = "";
 $dbname = "cadastro";       //Database name
 
 
-//Criate connection
+//Create connection
 
 $conn = mysqli_connect ($servidor, $utilizador, $password, $dbname);
